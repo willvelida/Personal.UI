@@ -1,0 +1,17 @@
+#headerDiv h1 {
+    text-align: center;
+}
+
+#headerDiv p {
+    text-align: center;
+}
+
+#buttonsDiv {
+    margin: 0;
+    align-items: center;
+    text-align: center;
+}
+
+#extraButton {
+    margin: 10px;
+}
